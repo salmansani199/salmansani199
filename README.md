@@ -1,4 +1,4 @@
-![I am harun181](https://github.com/salmansani199/salmansani199/blob/main/code.png?raw=true)
+![I am salmansani199](https://github.com/salmansani199/salmansani199/blob/main/code.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm SALMAN AHMAD(SHISHIR)</h1>
 <h3 align="center">Programmer | Web Designer | Speed Learner</h3>
@@ -106,7 +106,7 @@ Skills: Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 <a href="https://www.linkedin.com/in/harun181/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px; margin-right: 2px;" />
 </a>
-<a href="https://www.facebook.com/tutul181" target="_blank">
+<a href="https://www.facebook.com/salmansani199" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px; margin-right: 2px;" />
 </a>  
 </div>
