@@ -1,4 +1,4 @@
-![I am harun181]([https://github.com/harun181/harun181/blob/main/code.png](https://github.com/salmansani199/salmansani199/blob/main/code.png))
+![I am harun181](https://github.com/salmansani199/salmansani199/blob/main/code.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm SALMAN AHMAD(SHISHIR)</h1>
 <h3 align="center">Programmer | Web Designer | Speed Learner</h3>
@@ -90,7 +90,7 @@ Skills: Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
   <br/>
 </a>
 
-![Harun's Graph](https://github-readme-activity-graph.vercel.app/graph?username=harun181&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Harun's Graph](https://github-readme-activity-graph.vercel.app/graph?username=salmansani199&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br/>
 
