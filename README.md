@@ -1,4 +1,4 @@
-![I am salmansani199](https://github.com/salmansani199/salmansani199/blob/main/github-thumbnel.png)
+![I am salmansani199](https://github.com/salmansani199/salmansani199/blob/main/image.png)
 
 <h1 align="center">Hi 👋, I'm SALMAN AHMAD(SHISHIR)</h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
